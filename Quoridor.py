@@ -678,3 +678,5 @@ class Player:
     def set_winning(self):
         """Changes a player's _winning variable to True."""
         self._winning = True
+
+# changing things for git practice
